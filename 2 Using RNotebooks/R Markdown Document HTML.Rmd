@@ -1,0 +1,31 @@
+---
+title: "R Markdown Documents"
+author: "Chloe Lang"
+date: "9/12/2021"
+output: html_document
+---
+# Environmental Analysis
+
+## Introduction  
+
+**Chloe Lang**
+*Geography and Information Systems and Technology (GIST)*
+
+I am originally from SE Massachusetts but have been living in RI for the past 5 years for my undergrad. I became interested in GIS after doing an internship tracking coyote movement in RI. I hope to move to the west coast to work with either wildfire relief/recovery or work in the National Park System. 
+
+### Concept List
+1. I am interested in learning different statistical analyses that are used in different types of environmental data analysis.
+2. am also interested to learn more about R coding and become familiar with using it. 
+3. I am interested in learning all of these new concepts and being able to apply it to real world scenarios. 
+
+### Course List 
+*Wetland Wildlife Management
+
+*Mammology
+
+*Field Botany and Taxonomy
+  
+
+
+
+
